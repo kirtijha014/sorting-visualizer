@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/sorting-visualizer/static/css/main.46dec968.chunk.css",
-    "main.js": "/sorting-visualizer/static/js/main.02adf169.chunk.js",
-    "main.js.map": "/sorting-visualizer/static/js/main.02adf169.chunk.js.map",
-    "runtime-main.js": "/sorting-visualizer/static/js/runtime-main.6d0af130.js",
-    "runtime-main.js.map": "/sorting-visualizer/static/js/runtime-main.6d0af130.js.map",
-    "static/css/2.5aa997f2.chunk.css": "/sorting-visualizer/static/css/2.5aa997f2.chunk.css",
-    "static/js/2.426ade01.chunk.js": "/sorting-visualizer/static/js/2.426ade01.chunk.js",
-    "static/js/2.426ade01.chunk.js.map": "/sorting-visualizer/static/js/2.426ade01.chunk.js.map",
-    "index.html": "/sorting-visualizer/index.html",
-    "precache-manifest.653ebadcbe917e2db80c97b57fddba34.js": "/sorting-visualizer/precache-manifest.653ebadcbe917e2db80c97b57fddba34.js",
-    "service-worker.js": "/sorting-visualizer/service-worker.js",
-    "static/css/2.5aa997f2.chunk.css.map": "/sorting-visualizer/static/css/2.5aa997f2.chunk.css.map",
-    "static/css/main.46dec968.chunk.css.map": "/sorting-visualizer/static/css/main.46dec968.chunk.css.map",
-    "static/js/2.426ade01.chunk.js.LICENSE.txt": "/sorting-visualizer/static/js/2.426ade01.chunk.js.LICENSE.txt"
+    "main.css": "/sort/static/css/main.46dec968.chunk.css",
+    "main.js": "/sort/static/js/main.d47b3d86.chunk.js",
+    "main.js.map": "/sort/static/js/main.d47b3d86.chunk.js.map",
+    "runtime-main.js": "/sort/static/js/runtime-main.6bc404a3.js",
+    "runtime-main.js.map": "/sort/static/js/runtime-main.6bc404a3.js.map",
+    "static/css/2.5aa997f2.chunk.css": "/sort/static/css/2.5aa997f2.chunk.css",
+    "static/js/2.426ade01.chunk.js": "/sort/static/js/2.426ade01.chunk.js",
+    "static/js/2.426ade01.chunk.js.map": "/sort/static/js/2.426ade01.chunk.js.map",
+    "index.html": "/sort/index.html",
+    "precache-manifest.64aebc828aa80fbaebdbc5fb951e341d.js": "/sort/precache-manifest.64aebc828aa80fbaebdbc5fb951e341d.js",
+    "service-worker.js": "/sort/service-worker.js",
+    "static/css/2.5aa997f2.chunk.css.map": "/sort/static/css/2.5aa997f2.chunk.css.map",
+    "static/css/main.46dec968.chunk.css.map": "/sort/static/css/main.46dec968.chunk.css.map",
+    "static/js/2.426ade01.chunk.js.LICENSE.txt": "/sort/static/js/2.426ade01.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d0af130.js",
+    "static/js/runtime-main.6bc404a3.js",
     "static/css/2.5aa997f2.chunk.css",
     "static/js/2.426ade01.chunk.js",
     "static/css/main.46dec968.chunk.css",
-    "static/js/main.02adf169.chunk.js"
+    "static/js/main.d47b3d86.chunk.js"
   ]
 }
