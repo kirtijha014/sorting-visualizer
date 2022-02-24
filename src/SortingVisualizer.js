@@ -77,19 +77,7 @@ sort:controllerData['sort'],
 randomize:controllerData['randomize']
 }
 switch(controllerData.sortingAlgorithm)
-{ 
-case "Cocktail Sort":
-this.setState(cd,function(){
-this.cocktailSort()
-});
-break;
-
-case "Heap Sort" :
-this.setState(cd,function(){
-this.heapSort()
-});
-break;
-
+{
 case "Insertion Sort":
 this.setState(cd,function(){
 this.insertionSort()

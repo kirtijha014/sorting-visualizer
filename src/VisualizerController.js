@@ -150,8 +150,6 @@ return(
 <Dropdown.Item disabled>Sorting Algorithm</Dropdown.Item>
 <Dropdown.Divider/>
 <Dropdown.Item eventKey='Bubble Sort'>Bubble Sort (Default)</Dropdown.Item>
-<Dropdown.Item eventKey='Cocktail Sort'>Cocktail Sort</Dropdown.Item>
-<Dropdown.Item eventKey='Heap Sort'>Heap Sort</Dropdown.Item>
 <Dropdown.Item eventKey='Insertion Sort'>Insertion Sort</Dropdown.Item>
 <Dropdown.Item eventKey='Linear Sort'>Linear Sort</Dropdown.Item>
 <Dropdown.Item eventKey='Merge Sort'>Merge Sort</Dropdown.Item>
