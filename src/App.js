@@ -63,7 +63,7 @@ return(
 <Col id='sortingVisualizer'><SortingVisualizer visualizerDataHandler={this.visualizerDataHandler} controllerData={this.state.default}></SortingVisualizer></Col>
 </Row>
 <Row xl={1} lg={1} md={1} sm={1} xs={1}>
-<Col><h6>Author : Akshat Jain & Ashutosh Gautam</h6></Col>
+<Col><h6>GROUP 2 :  KIRTI JHA, K. PARVATI, LUCKY MONI DEORI, THANGBITHA KEMPRAI</h6></Col>
 </Row>
 </Container>
 </div>
